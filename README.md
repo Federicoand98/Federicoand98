@@ -2,13 +2,11 @@
 
 <div align="left">
     <a href="https://www.linkedin.com/in/federico-andrucci-5571a0202/">
-        <img
-            src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-            alt="LinkedIn"
-      />
+        <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"alt="LinkedIn"/>
     </a>
-
-
+    <a href="https://app.daily.dev/federyeeco">
+        <img src="https://api.daily.dev/devcards/93dc183015f5459089ac4cf378753611.png?r=4rg" width="400" alt="Federico Andrucci's Dev Card"/>
+    </a>
 </div>
 
 <!--
