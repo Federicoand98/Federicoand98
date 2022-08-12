@@ -9,6 +9,15 @@
     </a>
 </div>
 
+## I am Federico Andrucci
+
+- MSc Computer Engineering student at [The University of Bologna](https://www.unibo.it/en)
+
+![Metrics](https://raw.githubusercontent.com/Federicoand98/Federicoand98/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/Federicoand98/Federicoand98/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/Federicoand98/Federicoand98/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/Federicoand98/Federicoand98/github-metrics/achievements.svg)
+
 <!--
 **Federicoand98/Federicoand98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
