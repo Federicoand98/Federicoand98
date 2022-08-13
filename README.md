@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"alt="LinkedIn"/>
     </a>
     <a href="https://app.daily.dev/DailyDevTips">
-        <img src="https://github.com/Federicoand98/Federicoand98/blob/master/devcard.svg" width="400" alt="Federicoand98's Dev Card"/>
+        <img width="256" align="right" src="https://github.com/Federicoand98/Federicoand98/blob/master/devcard.svg" width="400" alt="Federicoand98's Dev Card"/>
     </a>
 </div>
 
@@ -13,8 +13,12 @@
 
 - MSc Computer Engineering student at [The University of Bologna](https://www.unibo.it/en)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](https://github.com/Federicoand98/Federicoand98/blob/master/github-metrics.svg)
+![Most used languages](https://github.com/Federicoand98/Federicoand98/blob/master/languages.svg)
+![Notable contributions](https://github.com/Federicoand98/Federicoand98/blob/master/notable.svg)
+![Achievements](https://github.com/Federicoand98/Federicoand98/blob/master/achievements.svg)
 <!--
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 <img align="center" src="/notable.svg" alt="Notable" width="400">
 <img align="center" src="/language.svg" alt="Languages" width="400">
 <img align="center" src="/achievements.svg" alt="Achievements" width="400">
