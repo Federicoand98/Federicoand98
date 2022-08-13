@@ -14,7 +14,7 @@
 - MSc Computer Engineering student at [The University of Bologna](https://www.unibo.it/en)
 
 ![Metrics](https://github.com/Federicoand98/Federicoand98/blob/master/github-metrics.svg)
-![Most used languages](https://github.com/Federicoand98/Federicoand98/blob/master/languages.svg)
+![Most used languages](https://github.com/Federicoand98/Federicoand98/blob/master/language.svg)
 ![Notable contributions](https://github.com/Federicoand98/Federicoand98/blob/master/notable.svg)
 ![Achievements](https://github.com/Federicoand98/Federicoand98/blob/master/achievements.svg)
 <!--
