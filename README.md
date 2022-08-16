@@ -15,9 +15,9 @@
 
 ![Metrics](https://github.com/Federicoand98/Federicoand98/blob/master/github-metrics.svg)
 ![Most used languages](https://github.com/Federicoand98/Federicoand98/blob/master/language.svg)
+![Habits](https://github.com/Federicoand98/Federicoand98/blob/master/habits.svg)
 ![Notable contributions](https://github.com/Federicoand98/Federicoand98/blob/master/notable.svg)
 ![Skyline](https://github.com/Federicoand98/Federicoand98/blob/master/skyline.svg)
-![Habits](https://github.com/Federicoand98/Federicoand98/blob/master/habits.svg)
 ![Achievements](https://github.com/Federicoand98/Federicoand98/blob/master/achievements.svg)
 
 <!--
