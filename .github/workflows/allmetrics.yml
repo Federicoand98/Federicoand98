@@ -114,8 +114,8 @@ jobs:
           user: Federicoand98
           filename: skyline.svg
           plugin_skyline: yes
-          plugin_skyline_year: 2020
-          plugin_skyline_frames: 6
+          plugin_skyline_year: 2022
+          plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           plugin_skyline_settings: |
             {
