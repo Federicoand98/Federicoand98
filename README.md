@@ -16,13 +16,9 @@
 ![Metrics](https://github.com/Federicoand98/Federicoand98/blob/master/github-metrics.svg)
 ![Most used languages](https://github.com/Federicoand98/Federicoand98/blob/master/language.svg)
 ![Notable contributions](https://github.com/Federicoand98/Federicoand98/blob/master/notable.svg)
+![Skyline](https://github.com/Federicoand98/Federicoand98/blob/master/skyline.svg)
+![Habits](https://github.com/Federicoand98/Federicoand98/blob/master/habits.svg)
 ![Achievements](https://github.com/Federicoand98/Federicoand98/blob/master/achievements.svg)
-<!--
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="/notable.svg" alt="Notable" width="400">
-<img align="center" src="/language.svg" alt="Languages" width="400">
-<img align="center" src="/achievements.svg" alt="Achievements" width="400">
-->
 
 <!--
 **Federicoand98/Federicoand98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
