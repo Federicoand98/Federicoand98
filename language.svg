@@ -21,7 +21,7 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.19378802050926" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.19378802050926" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="459.19378802050926" y="0" width="294.80747973040724" height="8" fill="#DA5B0B"/>
                     <rect mask="url(#languages-bar)" x="754.0012677509164" y="0" width="71.41095938389778" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="825.4122271348142" y="0" width="49.2041796635172" height="8" fill="#f34b7d"/>
@@ -35,7 +35,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
